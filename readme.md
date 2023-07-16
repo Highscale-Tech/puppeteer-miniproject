@@ -1,0 +1,3 @@
+- this is a very simple puppeteer project
+- it's a single function when called along with a keyword returns the first google image search result for that keyword
+- it isn't detected by bots using the puppeteer stealth plugin and person humanize patterns
